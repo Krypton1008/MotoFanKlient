@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MotoFanMobile</string>
+    <string name="tab_text_1">Aktualności</string>
+    <string name="tab_text_2">Wydarzenia</string>
+    <string name="tab_text_3">Miejsca</string>
+    <string name="title_mockup">Tytuł</string>
+    <string name="release_date_mockup">Data wydania</string>
+</resources>
